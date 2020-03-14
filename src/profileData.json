@@ -1,0 +1,87 @@
+{
+	"landing": {
+		"firstName": "Billal ",
+		"lastName": "Hossain",
+		"phoneNumber": "+8801842168117",
+		"bio": "A Computer Science Student and a Self Learner. ",
+    "email": "bilal.hossai1@gmail.com",
+    "linkedin": "https://linkedin.com/in/billal.hossain",
+		"github": "https://github.com/proffesergio"
+	},
+	"experience": [
+		{
+				"position": "Java Developer",
+				"organization": "Self Learning Point",
+				"aboutWork": "Learning java programming and building applications using java programming language.",
+				"fromDate": "January 2020",
+				"toDate": "Present"
+		},
+		{
+			"position": "Web Developer Intern",
+			"organization": "Geeksntechnology",
+			"aboutWork": "Contributed to an ecommerce web backend server and frontend as an intern. Resolving some previous issues and added some new features to the ecommerce Web platform.",
+			"fromDate": "November 2019",
+			"toDate": "January 2020"
+		},
+		{
+			"position": "Software Developer Intern",
+			"organization": "VectorIT Solutions",
+			"aboutWork": "Working as a software developer and we are building something new together.",
+			"fromDate": "January 2020",
+			"toDate": "Present"
+		},
+		{
+			"position": "Creative Graphic Designer",
+			"organization": "MyGasBD Ltd",
+			"aboutWork": "Worked as a graphic designer and was responsible for designing creative contents and handouts based on different marketing strategies."
+		}
+	],
+	"education": [{
+			"university": "Southeast University",
+			"degree": "Bachelor of Computer Science and Engineering",
+			"gpa": "3.00",
+			"fromDate": "July 2016",
+			"toDate": "January 2020"
+		}
+
+	],
+	"skills": [{
+			"name": "Adobe Illustrator"
+		},
+		{
+			"name": "Adobe Photoshop"
+		},
+		{
+			"name": "Adobe XD"
+		},
+		{
+			"name": "HTML5"
+		},
+		{
+			"name": "CSS3"
+		},
+		{
+			"name": "Java"
+		},
+		{
+			"name": "Django"
+		},
+		{
+			"name": "PHP"
+		}
+	],
+	"interests": {
+		"paragraphOne": "Apart from being a web developer and a beginner programmer, I enjoy most of my time being outdoors and play football. In the winter, I do a lot of cycling around. I enjoy mountain biking, free climbing, and kayaking.",
+		"paragraphTwo": "When forced indoors, I follow a number of sci-fi, thriller and crime genre movies and television shows, I am a true technology geek, and I spend a bunch of my free time exploring the latest technology advancements in the current tech world."
+	},
+	"awards": [{
+			"awardDetail": "Awarded A Logo Design Contest."
+		},
+		{
+			"awardDetail": "Academic Computer Club Logo Design Contest of Southeast University"
+		},
+		{
+			"awardDetail": "Recieved the award from a very honourable person of our country who is none other than Dr.Ehsanul Haque who became the first person to achieve PHD Degree in Computer Science and Engineering in Bangladesh."
+		}
+	]
+}
